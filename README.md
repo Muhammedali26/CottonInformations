@@ -1,0 +1,2 @@
+# CottonInformations
+Scraping cotton info
